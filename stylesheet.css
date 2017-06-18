@@ -1,0 +1,47 @@
+        body {
+          text-align: center;
+        }
+
+        header {
+          display: inline-block;
+        }
+
+        #header h1 {
+          display: inline-block;
+          text-align: center;
+          width: 600px;
+          height: 40px;
+          margin: 30px auto 10px auto;
+        }
+
+        #subheader * {
+          display: inline-block;
+        }
+        
+
+        .subheaderElement {
+          margin: auto 10px auto 10px;
+        }
+        .separator{
+          height:1px;
+          width:90%;
+          display:inline-block;
+          
+          border: 1px solid rgba(192, 197, 206,0.5);
+        }
+        .job-header > *{
+                display:inline-block;    
+        }
+        .divisor{
+          padding:auto 5px;
+        }
+        ul{
+          list-style-position: inside;
+        }
+        .job{
+          border-bottom: 1px dashed gray;
+
+        }
+        body{
+          font-size: 1.2em;
+        }
